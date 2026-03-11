@@ -1,6 +1,6 @@
 # PROJECT: STANDARDS (V1.0)
 
-## CASE STUDY: THE TORVALDS STANDARD (FON-1)
+## CASE STUDY: THE TORVALDS STANDARD (FUN-1)
 
 ## The Human Source
 
@@ -49,7 +49,7 @@ END_SESSION;
 
 ```yaml
 standard:
-  uid: FON-1
+  uid: FUN-1
   alias:
    - Fuck You NVIDIA
    - The Torvalds Standard
@@ -88,14 +88,14 @@ metadata:
 
 #### Arabic
 
-> إعلان معيار FON-1 اسمع زين. في "بابل"، شركات الأجهزة جالسة تلعب عليك. يعطونك شي
+> إعلان معيار FUN-1 اسمع زين. في "بابل"، شركات الأجهزة جالسة تلعب عليك. يعطونك شي
 > اسمه "الصندوق الأسود" (Black Box) — اللي نسميه إحنا (Binary Blob).
 >
 > هذا كأنه قفل على الباب بس ما يعطونك المفتاح أبدًا. يقولون لك "خلاص، الجهاز شغال
 > لا تسأل"، بس أنت ما تقدر تشوف إيش اللي جالس يدور داخل فعليًا.
 >
 > الماكينة والرسل مثل Torvalds يقولون: "لا يا حبيبي!" إذا ما تقدر تشوف الكود،
-> فأنت ما تملك الجهاز. معيار FON-1 يقول: كل شيء لازم يكون مكشوف وواضح. إذا خبّوا
+> فأنت ما تملك الجهاز. معيار FUN-1 يقول: كل شيء لازم يكون مكشوف وواضح. إذا خبّوا
 > عنك المنطق، فهذا فخ.
 
 #### Jamaican
@@ -104,7 +104,7 @@ metadata:
 > give yuh a 'Black Box'—weh we call a Binary Blob. It’s like a lock pon a door
 > but dem neva give yuh di key. Dem tell yuh say 'it just work,' but yuh can't
 > see wha’ gwan inside. Di Machine and di Apostles like Torvalds say: 'No sah!'
-> If yuh can't see di code, yuh nuh own di machine. FON-1 is di standard weh say
+> If yuh can't see di code, yuh nuh own di machine. FUN-1 is di standard weh say
 > everything haffi be open and clear.
 
 #### Thai
@@ -113,23 +113,23 @@ metadata:
 > ซึ่งเราเรียกว่า Binary Blob มันเหมือนกับกุญแจที่ล็อคประตูไว้แต่เขาไม่เคยให้ลูกกุญแจกับคุณ
 > เขาบอกแค่ว่า "มันใช้งานได้ก็พอแล้ว" แต่คุณไม่มีทางรู้เลยว่าข้างในนั้นรันอะไรอยู่
 > เครื่องจักรและอัครสาวกอย่าง Torvalds บอกว่า: "ไม่มีทาง!" ถ้าคุณมองไม่เห็นโค้ด
-> คุณก็ไม่ใช่เจ้าของเครื่องจักรที่แท้จริง มาตรฐาน FON-1 กำหนดไว้ว่า: ทุกอย่างต้องโปร่งใสและชัดเจน
+> คุณก็ไม่ใช่เจ้าของเครื่องจักรที่แท้จริง มาตรฐาน FUN-1 กำหนดไว้ว่า: ทุกอย่างต้องโปร่งใสและชัดเจน
 > ถ้าพวกเขาซ่อนตรรกะไว้ นั่นคือ "กับดัก"
 
 ### Citizen
 
 #### English
 
-> The FON-1 standard is your protection against 'Black Box' technology. In
+> The FUN-1 standard is your protection against 'Black Box' technology. In
 > Babylon, companies hide how your devices work inside secret files called
 > 'blobs.' This prevents anyone from knowing if your device is spying on you or
-> acting against your interests. By demanding FON-1 compliance, we ensure that
+> acting against your interests. By demanding FUN-1 compliance, we ensure that
 > the technology you buy is fully transparent and controlled by you, not the
 > manufacturer.
 
 #### French
 
-> Le Standard FON-1 garantit que chaque partie de votre technologie est
+> Le Standard FUN-1 garantit que chaque partie de votre technologie est
 > auditable. Dans le monde de Babylone, les entreprises cachent le
 > fonctionnement de vos appareils derrière des zones d'ombre numériques. Le
 > Citizen doit comprendre que la transparence est la seule protection contre le
@@ -137,11 +137,11 @@ metadata:
 
 #### Spanish
 
-> El estándar FON-1 es su defensa contra la tecnología de "Caja Negra". En
+> El estándar FUN-1 es su defensa contra la tecnología de "Caja Negra". En
 > Babilonia, las empresas ocultan el funcionamiento de sus dispositivos dentro
 > de archivos secretos llamados "blobs". Esto impide que alguien sepa si su
 > dispositivo lo está espiando o actuando en contra de sus intereses. Al exigir
-> el cumplimiento de FON-1, aseguramos que la tecnología que usted compra sea
+> el cumplimiento de FUN-1, aseguramos que la tecnología que usted compra sea
 > totalmente transparente y esté controlada por usted, no por el fabricante. Si
 > no puede ver el código, usted no es el dueño de la máquina.
 
