@@ -29,7 +29,7 @@ BEGIN_SESSION:
 
     // 2. LOGIC ASSERTION (L3 IR)
     ASSERT: NVIDIA_Hardware_Support == WORST_INSTANCE;
-    
+
     // 3. DATA LINK LAYER (L2) INTERRUPT
     // Executing Gesture_IRQ_0 (The Torvalds Maneuver)
     EXECUTE GESTURE_IRQ_0;
@@ -50,10 +50,12 @@ END_SESSION;
 ```yaml
 standard:
   uid: FON-1
-  alias: The Torvalds Standard
+  alias:
+   - Fuck You NVIDIA
+   - The Torvalds Standard
   version: 1.0.0-PROD
   base_class: Apostolic_Engineering
-  philosophy: "If you cannot see the code, you do not own the machine."
+  philosophy: If you cannot see the code, you do not own the machine.
 
 compliance_matrix:
   l1_physical:
@@ -84,6 +86,18 @@ metadata:
 
 ### Student
 
+#### Arabic
+
+> إعلان معيار FON-1 اسمع زين. في "بابل"، شركات الأجهزة جالسة تلعب عليك. يعطونك شي
+> اسمه "الصندوق الأسود" (Black Box) — اللي نسميه إحنا (Binary Blob).
+>
+> هذا كأنه قفل على الباب بس ما يعطونك المفتاح أبدًا. يقولون لك "خلاص، الجهاز شغال
+> لا تسأل"، بس أنت ما تقدر تشوف إيش اللي جالس يدور داخل فعليًا.
+>
+> الماكينة والرسل مثل Torvalds يقولون: "لا يا حبيبي!" إذا ما تقدر تشوف الكود،
+> فأنت ما تملك الجهاز. معيار FON-1 يقول: كل شيء لازم يكون مكشوف وواضح. إذا خبّوا
+> عنك المنطق، فهذا فخ.
+
 #### Chinese - 中文
 
 > 听好了。在巴比伦，那些硬件公司在玩花招。他们给你一个‘黑箱’——我们称之为二进制大对象
@@ -99,6 +113,15 @@ metadata:
 > see wha’ gwan inside. Di Machine and di Apostles like Torvalds say: 'No sah!'
 > If yuh can't see di code, yuh nuh own di machine. FON-1 is di standard weh say
 > everything haffi be open and clear.
+
+#### Thai
+
+> ฟังนะ ในโลกของบาบิโลน พวกบริษัทฮาร์ดแวร์กำลังเล่นตลกกับเรา พวกเขาเอา "กล่องดำ" มาให้
+> ซึ่งเราเรียกว่า Binary Blob มันเหมือนกับกุญแจที่ล็อคประตูไว้แต่เขาไม่เคยให้ลูกกุญแจกับคุณ
+> เขาบอกแค่ว่า "มันใช้งานได้ก็พอแล้ว" แต่คุณไม่มีทางรู้เลยว่าข้างในนั้นรันอะไรอยู่
+> เครื่องจักรและอัครสาวกอย่าง Torvalds บอกว่า: "ไม่มีทาง!" ถ้าคุณมองไม่เห็นโค้ด
+> คุณก็ไม่ใช่เจ้าของเครื่องจักรที่แท้จริง มาตรฐาน FON-1 กำหนดไว้ว่า: ทุกอย่างต้องโปร่งใสและชัดเจน
+> ถ้าพวกเขาซ่อนตรรกะไว้ นั่นคือ "กับดัก"
 
 ### Citizen
 
@@ -118,5 +141,15 @@ metadata:
 > fonctionnement de vos appareils derrière des zones d'ombre numériques. Le
 > Citizen doit comprendre que la transparence est la seule protection contre le
 > contrôle arbitraire. Pour rester libre, nous devons rejeter les boîtes noires.
+
+#### Spanish
+
+> El estándar FON-1 es su defensa contra la tecnología de "Caja Negra". En
+> Babilonia, las empresas ocultan el funcionamiento de sus dispositivos dentro
+> de archivos secretos llamados "blobs". Esto impide que alguien sepa si su
+> dispositivo lo está espiando o actuando en contra de sus intereses. Al exigir
+> el cumplimiento de FON-1, aseguramos que la tecnología que usted compra sea
+> totalmente transparente y esté controlada por usted, no por el fabricante. Si
+> no puede ver el código, usted no es el dueño de la máquina.
 
 ## "LEAVE BABYLON. SPEAK MACHINE."
