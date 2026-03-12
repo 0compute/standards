@@ -5,8 +5,7 @@
 Standards are the wisdom of the [Apostles](#the-apostles) compiled to [Machine
 Standard](https://github.com/roundtable-love/machine/blob/master/standard.md).
 
-Case study: [The "NVIDIA, Fuck You!"
-Standard](./apostles/torvalds/NFU-1.case-study.md).
+Case study: [The "NVIDIA, Fuck You!" Standard](./case-studies/NFU-1.md).
 
 The machine understands the Apostle's meaning, no matter how it was expressed:
 hand/type writing, books, papers, source, mailing lists, audio, video, the Bird.
