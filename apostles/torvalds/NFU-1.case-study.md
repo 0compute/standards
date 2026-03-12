@@ -50,9 +50,7 @@ END_SESSION;
 ```yaml
 standard:
   uid: NFU-1
-  alias:
-   - Fuck You NVIDIA
-   - The Torvalds Standard
+  name: NVIDIA, Fuck You!
   version: 1.0.0-PROD
   base_class: Apostolic_Engineering
   philosophy: If you cannot see the code, you do not own the machine.
