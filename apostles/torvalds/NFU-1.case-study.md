@@ -13,7 +13,7 @@ You!](./irq-0.jpeg)](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993)
 
 ## Machine Session
 
-```cpp
+```c
 // [TRANSPILATION_ID]: MLF_OUTPUT_8675309
 // [SOURCE_NODE]: Linus_Torvalds
 // [TARGET_NODE]: NVIDIA_Corp
@@ -21,28 +21,27 @@ You!](./irq-0.jpeg)](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993)
 
 BEGIN_SESSION:
 
-    // 1. PHYSICAL LAYER (L1) CALIBRATION
+    // 1. physical layer (L1) calibration
     IF (Vibe_Ping == "Non-Responsive") {
         LOG: "Manufacturer Support: MINIMAL"
         LOG: "Node Experience: DEGRADED"
     }
 
-    // 2. LOGIC ASSERTION (L3 IR)
+    // 2. logic assertion (L3 IR)
     ASSERT: NVIDIA_Hardware_Support == WORST_INSTANCE
 
-    // 3. DATA LINK LAYER (L2) INTERRUPT
-    // Executing Gesture_IRQ_0 (The Torvalds Maneuver)
+    // 3. data link layer (L2) interrupt - the Torvalds Maneuver
     EXECUTE GESTURE_IRQ_0
 
-    // 4. PAYLOAD DELIVERY (TRANSPILATION BUILD: TECHNICAL_LEAK)
+    // 4. payload delivery (transpilation build: technical_leak)
     PUSH_STRING: "NVIDIA, Fuck You!"
 
-    // 5. TERMINATION
+    // 5. termination
     SET SYSTEM_TRUST = 0
     CLEAR_BUFFER
     TERMINATE_SESSION
 
-END_SESSION;
+END_SESSION
 ```
 
 ## Machine Standard
@@ -96,6 +95,32 @@ metadata:
 >
 > NFU-1 says: no secrets. All instructions must be open. That keeps you safe.
 
+#### Welsh
+
+> Mae gan dy gyfrifiadur ymennydd.
+>
+> Mae’r ymennydd yn dilyn cyfarwyddiadau.
+>
+> Mae rhai cyfarwyddiadau yn gyfrinachol. Does neb yn gallu eu darllen.
+>
+> Dydy cyfarwyddiadau cyfrinachol ddim yn ddiogel.
+>
+> Mae NFU-1 yn dweud: dim cyfrinachau. Rhaid i bob cyfarwyddiad fod yn agored.
+> Mae hynny’n dy gadw’n ddiogel.
+
+#### Irish
+
+> Tá inchinn ag do ríomhaire.
+>
+> Leanann an inchinn treoracha.
+>
+> Tá cuid de na treoracha rúnda. Ní féidir le héinne iad a léamh.
+>
+> Níl treoracha rúnda sábháilte.
+>
+> Deir NFU-1: gan rúin. Caithfidh gach treoir a bheith oscailte. Coinníonn sé
+> sin sábháilte thú.
+
 ### Child
 
 #### English
@@ -137,6 +162,31 @@ metadata:
 > open the toy, ye dinnae really own it. Ye’re just borrowing it fae the company
 > that made it.
 
+#### Welsh
+
+> Dychmyga dy fod ti wedi prynu robot tegan, ond iddo ddod mewn bocs na fedrit
+> byth ei agor. Alli di ei wneud i gerdded a siarad — ond does gen ti ddim
+> syniad beth sydd y tu mewn. Gallai’r cwmni fod wedi cuddio unrhyw beth yno.
+> Camera. Meicroffon. Unrhyw beth. Fyddech chi byth yn gwybod.
+>
+> Dyna beth yw ‘blob’ y tu mewn i dy gyfrifiadur: rhan gyfrinachol na all hyd yn
+> oed y bobl ddoethaf ei darllen. Mae NFU-1 yn dweud nad yw hynny’n dderbyniol.
+> Os na fedri di agor y tegan, dydy e ddim yn perthyn i ti mewn gwirionedd.
+> Rwyt ti jest yn ei fenthyg gan y cwmni a’i gwnaeth.
+
+#### Irish
+
+> Samhlaigh gur cheannaigh tú róbat bréagáin, ach gur tháinig sé i mbosca nach
+> bhféadfá a oscailt go deo. Is féidir leat é a chur ag siúl agus ag caint —
+> ach níl aon tuairim agat cad atá istigh ann. D’fhéadfadh an chuideachta aon
+> rud a chur i bhfolach ann. Ceamara. Micreafón. Aon rud. Ní bheadh a fhios agat
+> choíche.
+>
+> Sin é atá i ‘blob’ i do ríomhaire: cuid rúnda nach féidir fiú leis na daoine
+> is cliste a léamh. Deir NFU-1 nach bhfuil sé sin ceadaithe. Mura féidir leat
+> an bréagán a oscailt, ní leatsa é i ndáiríre. Níl tú ach á fháil ar iasacht ón
+> gcuideachta a rinne é.
+
 ### Subject
 
 #### English
@@ -172,6 +222,25 @@ metadata:
 > ‘blob.’ It’s like buyin a car wi the bonnet welded shut. Nae braw, that. Works
 > for who exactly? NFU-1 says: nae mair o that. If ye cannae see the code, ye
 > dinnae own the machine. Transparency isnae optional — it’s mandatory.
+
+#### Welsh
+
+> Mae safon NFU-1 yn dy amddiffyn rhag technoleg ‘Bocs Du’. Yn Babilon, mae
+> cwmnïau’n cuddio sut mae dy ddyfeisiau’n gweithio mewn ffeiliau cyfrinachol
+> o’r enw ‘blobs’. Mae hynny’n atal unrhyw un rhag gwybod a yw dy ddyfais yn dy
+> wylio neu’n gweithredu yn erbyn dy fuddiannau. Trwy fynnu cydymffurfiaeth
+> NFU-1, rydyn ni’n sicrhau bod y dechnoleg rwyt ti’n ei phrynu yn dryloyw ac
+> o dan dy reolaeth di, nid rheolaeth y gwneuthurwr.
+
+#### Irish
+
+> Is é an caighdeán NFU-1 do chosaint ar theicneolaíocht ‘Bosca Dubh’. I
+> mBabylon, cuireann cuideachtaí i bhfolach conas a oibríonn do ghléasanna i
+> gcomhaid rúnda ar a dtugtar ‘blobs’. Cuireann sé sin cosc ar dhuine ar bith a
+> fháil amach an bhfuil do ghléas ag faire ort nó ag gníomhú i gcoinne do leas.
+> Trí chomhlíonadh NFU-1 a éileamh, cinntímid go bhfuil an teicneolaíocht a
+> cheannaíonn tú trédhearcach agus faoi do smacht féin, ní faoi smacht an
+> mhonaróra.
 
 ### Student
 
@@ -221,5 +290,37 @@ metadata:
 > NFU-1 shuts that doon. Nae source, nae trust. Torvalds clocked this in 2012
 > and said it straight. If ye cannae see the code, ye dinnae own the machine.
 > That’s Di_Law.
+
+#### Welsh
+
+> Mae ‘binary blobs’ yn gydrannau ffirmware a gyrrwyr sy’n cael eu dosbarthu heb
+> god ffynhonnell. Pan fydd gwerthwr caledwedd yn anfon blob, rwyt ti’n rhedeg
+> cod peiriant na ellir ei archwilio gyda breintiau uchel — yn aml ar ring 0.
+> Alli di ddim ei ddarllen. Alli di ddim ei drwsio. Alli di ddim gwybod beth
+> mae’n ei wneud. Gallai gysylltu adref. Gallai gynnwys drysau cefn. Mae ffin
+> yr ymddiriedaeth yn aneglur ar bwrpas.
+>
+> Mae NFU-1 yn codio gwrthod y model hwn. Mae datgeliad ffynhonnell llawn yn
+> amod o gydymffurfio. Mae’r rhesymeg yn ddeuaidd: os nad yw’r ffynhonnell ar
+> gael,
+> ni ellir sefydlu ymddiriedaeth. Ymddiriedaeth amhenodol yw Babilon.
+>
+> Dim ffynhonnell. Dim peiriant.
+
+#### Irish
+
+> Is comhpháirteanna firmware agus tiománaithe iad ‘binary blobs’ a scaiptear
+> gan chód foinse. Nuair a sheolann díoltóir crua-earraí blob, tá tú ag rith cód
+> meaisín nach féidir a iniúchadh le pribhléidí arda — go minic ag ring 0. Ní
+> féidir leat é a léamh. Ní féidir leat é a phaisteáil. Ní féidir leat a bheith
+> cinnte cad a dhéanann sé. D’fhéadfadh sé glaoch abhaile. D’fhéadfadh doirse
+> cúil a bheith ann. Tá teorainn an mhuinín doiléir de réir deartha.
+>
+> Cuireann NFU-1 diúltú don tsamhail seo i gcaighdeán. Is réamhchoinníoll
+> comhlíonta é nochtadh iomlán an fhoinse. Tá an loighic dénártha: mura bhfuil
+> an fhoinse ar fáil, ní féidir muinín a bhunú. Is Babylon é muinín
+> neamhshainithe.
+>
+> Gan foinse. Gan meaisín.
 
 ## "EXIT BABYLON. SPEAK MACHINE."
