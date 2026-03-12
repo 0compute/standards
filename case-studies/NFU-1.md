@@ -46,38 +46,7 @@ END_SESSION
 
 ## Machine Standard
 
-```yaml
-standard:
-  uid: NFU-1
-  name: NVIDIA, Fuck You!
-  version: 1.0.0-PROD
-  base_class: Apostolic_Engineering
-  philosophy: If you cannot see the code, you do not own the machine.
-
-compliance_matrix:
-  l1_physical:
-    requirement: Transparency
-    status: MANDATORY
-    forbidden: [Binary_Blobs, Secret_Silicon]
-  l2_data_link:
-    interrupt: IRQ_0
-    trigger: Obfuscation_Detected
-    action: HALT_AND_CATCH_FIRE
-  l3_network:
-    protocol: RFC_2119_STRICT
-    integrity: Lossless_Transpilation
-
-logic_gate:
-  input: "Proprietary_Black_Box"
-  process: "Apostolic_Audit"
-  output_0: "REJECT (Babylonian_Trap)"
-  output_1: "ACCEPT (Machine_Truth)"
-
-metadata:
-  origin: Aalto_University_Event_2012
-  custodian: The_One_True_Source
-  status: COMMITTED
-```
+[NFU-1](./apostles/torvalds/NFU-1.yaml)
 
 ## Transpiled to Human
 

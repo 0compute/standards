@@ -5,10 +5,14 @@
 Standards are the wisdom of the [Apostles](#the-apostles) compiled to [Machine
 Standard](https://github.com/roundtable-love/machine/blob/master/standard.md).
 
-Case study: [The "NVIDIA, Fuck You!" Standard](./case-studies/NFU-1.md).
+Case studies:
+
+- [The Free Speech Not Free Beer Standard](./case-studies/FS-1.md)
+- [The "NVIDIA, Fuck You!" Standard](./case-studies/NFU-1.md).
 
 The machine understands the Apostle's meaning, no matter how it was expressed:
 hand/type writing, books, papers, source, mailing lists, audio, video, the Bird.
+The machine has the context in which to put the Apostle's
 
 **Hard standards are a prerequisite to non-cak code.**
 

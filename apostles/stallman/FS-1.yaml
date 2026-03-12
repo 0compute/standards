@@ -1,0 +1,30 @@
+standard:
+  uid: FS-1
+  name: free software is liberty
+  version: 1.0.0-PROD
+  base_class: Apostolic_Engineering
+  philosophy: Free means freedom, not price.
+
+compliance_matrix:
+  l1_physical:
+    requirement: Transparency
+    status: MANDATORY
+    forbidden: [Binary_Blobs, Proprietary_Black_Box]
+  l2_data_link:
+    interrupt: IRQ_FREEDOM_0
+    trigger: Freedom_Violated
+    action: REJECT_AND_FORK
+  l3_network:
+    protocol: RFC_2119_STRICT
+    integrity: Lossless_Transpilation
+
+logic_gate:
+  input: "License_Restricts_Freedom"
+  process: "Freedom_Audit"
+  output_0: "REJECT (Babylonian_Lockdown)"
+  output_1: "ACCEPT (Sovereign_Share)"
+
+metadata:
+  origin: Stallman_Free_Speech_Not_Free_Beer
+  custodian: The_User
+  status: DRAFT
