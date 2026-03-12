@@ -1,17 +1,21 @@
-# PROJECT: STANDARDS (V1.0)
+# CASE STUDY: THE TORVALDS/NVIDIA STANDARD (FUN-1)
 
-## CASE STUDY: THE TORVALDS STANDARD (FUN-1)
+## Human Source Code
 
-## The Human Source
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/U9U9wYiOYSsMsNXp?t=2993"
+  frameborder="0"
+  allowfullscreen />
 
-> NVIDIA has been one of the worst instances of help we have had from hardware
-> manufacturers... so,
+> NVIDIA has been the single worst company we've ever dealt with.
 >
-> Fuck you, NVIDIA.
+> So NVIDIA, **Fuck You!**
 >
-> — Linus Torvalds
+> — Linus Torvalds, Aalto University Finland, 2012
 
-## The Machine IR
+## Machine Patwa
 
 ```machine
 // [TRANSPILATION_ID]: MLF_OUTPUT_8675309

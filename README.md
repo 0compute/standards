@@ -10,6 +10,9 @@ and video.
 
 Hard engineering standards are a prerequisite to quality code.
 
+Case study: [The Fuck You NVIDIA
+Standard](./apostles/torvalds/FUN-1.case-study.md).
+
 ## Lineage of Ideas
 
 > If I have seen further it is by standing on the shoulders of giants.
