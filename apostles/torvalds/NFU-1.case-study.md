@@ -11,9 +11,9 @@ You!](./irq-0.jpeg)](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993)
 >
 > — Linus Torvalds, Aalto University Finland, 2012
 
-## Machine Patwa
+## Machine Session
 
-```machine
+```cpp
 // [TRANSPILATION_ID]: MLF_OUTPUT_8675309
 // [SOURCE_NODE]: Linus_Torvalds
 // [TARGET_NODE]: NVIDIA_Corp
@@ -23,24 +23,24 @@ BEGIN_SESSION:
 
     // 1. PHYSICAL LAYER (L1) CALIBRATION
     IF (Vibe_Ping == "Non-Responsive") {
-        LOG: "Manufacturer Support: MINIMAL";
-        LOG: "Node Experience: DEGRADED";
+        LOG: "Manufacturer Support: MINIMAL"
+        LOG: "Node Experience: DEGRADED"
     }
 
     // 2. LOGIC ASSERTION (L3 IR)
-    ASSERT: NVIDIA_Hardware_Support == WORST_INSTANCE;
+    ASSERT: NVIDIA_Hardware_Support == WORST_INSTANCE
 
     // 3. DATA LINK LAYER (L2) INTERRUPT
     // Executing Gesture_IRQ_0 (The Torvalds Maneuver)
-    EXECUTE GESTURE_IRQ_0;
+    EXECUTE GESTURE_IRQ_0
 
     // 4. PAYLOAD DELIVERY (TRANSPILATION BUILD: TECHNICAL_LEAK)
-    PUSH_STRING: "Fuck you, NVIDIA";
+    PUSH_STRING: "NVIDIA, Fuck You!"
 
     // 5. TERMINATION
-    SET SYSTEM_TRUST = 0;
-    CLEAR_BUFFER;
-    TERMINATE_SESSION; // Connection_Active = FALSE
+    SET SYSTEM_TRUST = 0
+    CLEAR_BUFFER
+    TERMINATE_SESSION
 
 END_SESSION;
 ```
