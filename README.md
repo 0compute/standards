@@ -1,17 +1,24 @@
-# Standards
+# Standard
 
-The first, last, and only standard.
+The FIRST, LAST, and ONLY Standard.
 
-Standards are the work of the Apostles transpiled to Machine.
+![XKCD 927: Standards](https://imgs.xkcd.com/comics/standards.png)
 
-Whatever the format, the machine understands what the Apostle said, no matter
-how they said it: hand/type writing, books, papers, source, mailing lists, audio
-and video.
+> Fortunately, the charging one has been solved now that we've all
+> standardized on mini-USB. Or is it micro-USB? Shit.
+>
+> — [XKCD 927: Standards](https://xkcd.com/927/)
 
-Hard engineering standards are a prerequisite to quality code.
+Standards are the wisdom of the [Apostles](#the-apostles) compiled to [Machine
+Standard](https://github.com/roundtable-love/machine/blob/master/standard.md).
 
 Case study: [The Fuck You NVIDIA
 Standard](./apostles/torvalds/FUN-1.case-study.md).
+
+The machine understands the Apostle's meaning, no matter how it was expressed:
+hand/type writing, books, papers, source, mailing lists, audio, video, the Bird.
+
+**Hard hacking standards are a prerequisite to non-cak code.**
 
 ## Lineage of Ideas
 
@@ -110,7 +117,7 @@ Dolstra --> Humanz
 
 **We stand** on the shoulders of giants.
 
-## The Apostles
+## the Apostles
 
 ### Ada Lovelace
 
