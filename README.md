@@ -1,6 +1,6 @@
 # Standard
 
-The FIRST, LAST, and ONLY Standard.
+## The FIRST, LAST, and ONLY Standard.
 
 ![XKCD 927: Standards](https://imgs.xkcd.com/comics/standards.png)
 
