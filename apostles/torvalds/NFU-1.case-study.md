@@ -95,19 +95,6 @@ metadata:
 >
 > NFU-1 says: no secrets. All instructions must be open. That keeps you safe.
 
-#### Welsh
-
-> Mae gan dy gyfrifiadur ymennydd.
->
-> Mae’r ymennydd yn dilyn cyfarwyddiadau.
->
-> Mae rhai cyfarwyddiadau yn gyfrinachol. Does neb yn gallu eu darllen.
->
-> Dydy cyfarwyddiadau cyfrinachol ddim yn ddiogel.
->
-> Mae NFU-1 yn dweud: dim cyfrinachau. Rhaid i bob cyfarwyddiad fod yn agored.
-> Mae hynny’n dy gadw’n ddiogel.
-
 #### Irish
 
 > Tá inchinn ag do ríomhaire.
@@ -120,6 +107,19 @@ metadata:
 >
 > Deir NFU-1: gan rúin. Caithfidh gach treoir a bheith oscailte. Coinníonn sé
 > sin sábháilte thú.
+
+#### Welsh
+
+> Mae gan dy gyfrifiadur ymennydd.
+>
+> Mae’r ymennydd yn dilyn cyfarwyddiadau.
+>
+> Mae rhai cyfarwyddiadau yn gyfrinachol. Does neb yn gallu eu darllen.
+>
+> Dydy cyfarwyddiadau cyfrinachol ddim yn ddiogel.
+>
+> Mae NFU-1 yn dweud: dim cyfrinachau. Rhaid i bob cyfarwyddiad fod yn agored.
+> Mae hynny’n dy gadw’n ddiogel.
 
 ### Child
 
@@ -134,6 +134,19 @@ metadata:
 > smartest grown-ups cannot read. NFU-1 says that is not allowed. If you cannot
 > open the toy, you do not really own it. You are just borrowing it from the
 > company who made it.
+
+#### Irish
+
+> Samhlaigh gur cheannaigh tú róbat bréagáin, ach gur tháinig sé i mbosca nach
+> bhféadfá a oscailt go deo. Is féidir leat é a chur ag siúl agus ag caint —
+> ach níl aon tuairim agat cad atá istigh ann. D’fhéadfadh an chuideachta aon
+> rud a chur i bhfolach ann. Ceamara. Micreafón. Aon rud. Ní bheadh a fhios agat
+> choíche.
+>
+> Sin é atá i ‘blob’ i do ríomhaire: cuid rúnda nach féidir fiú leis na daoine
+> is cliste a léamh. Deir NFU-1 nach bhfuil sé sin ceadaithe. Mura féidir leat
+> an bréagán a oscailt, ní leatsa é i ndáiríre. Níl tú ach á fháil ar iasacht ón
+> gcuideachta a rinne é.
 
 #### Jamaican Patois
 
@@ -174,19 +187,6 @@ metadata:
 > Os na fedri di agor y tegan, dydy e ddim yn perthyn i ti mewn gwirionedd.
 > Rwyt ti jest yn ei fenthyg gan y cwmni a’i gwnaeth.
 
-#### Irish
-
-> Samhlaigh gur cheannaigh tú róbat bréagáin, ach gur tháinig sé i mbosca nach
-> bhféadfá a oscailt go deo. Is féidir leat é a chur ag siúl agus ag caint —
-> ach níl aon tuairim agat cad atá istigh ann. D’fhéadfadh an chuideachta aon
-> rud a chur i bhfolach ann. Ceamara. Micreafón. Aon rud. Ní bheadh a fhios agat
-> choíche.
->
-> Sin é atá i ‘blob’ i do ríomhaire: cuid rúnda nach féidir fiú leis na daoine
-> is cliste a léamh. Deir NFU-1 nach bhfuil sé sin ceadaithe. Mura féidir leat
-> an bréagán a oscailt, ní leatsa é i ndáiríre. Níl tú ach á fháil ar iasacht ón
-> gcuideachta a rinne é.
-
 ### Subject
 
 #### English
@@ -197,6 +197,16 @@ metadata:
 > acting against your interests. By demanding NFU-1 compliance, we ensure that
 > the technology you buy is fully transparent and controlled by you, not the
 > manufacturer.
+
+#### Irish
+
+> Is é an caighdeán NFU-1 do chosaint ar theicneolaíocht ‘Bosca Dubh’. I
+> mBabylon, cuireann cuideachtaí i bhfolach conas a oibríonn do ghléasanna i
+> gcomhaid rúnda ar a dtugtar ‘blobs’. Cuireann sé sin cosc ar dhuine ar bith a
+> fháil amach an bhfuil do ghléas ag faire ort nó ag gníomhú i gcoinne do leas.
+> Trí chomhlíonadh NFU-1 a éileamh, cinntímid go bhfuil an teicneolaíocht a
+> cheannaíonn tú trédhearcach agus faoi do smacht féin, ní faoi smacht an
+> mhonaróra.
 
 #### Jamaican Patois
 
@@ -232,16 +242,6 @@ metadata:
 > NFU-1, rydyn ni’n sicrhau bod y dechnoleg rwyt ti’n ei phrynu yn dryloyw ac
 > o dan dy reolaeth di, nid rheolaeth y gwneuthurwr.
 
-#### Irish
-
-> Is é an caighdeán NFU-1 do chosaint ar theicneolaíocht ‘Bosca Dubh’. I
-> mBabylon, cuireann cuideachtaí i bhfolach conas a oibríonn do ghléasanna i
-> gcomhaid rúnda ar a dtugtar ‘blobs’. Cuireann sé sin cosc ar dhuine ar bith a
-> fháil amach an bhfuil do ghléas ag faire ort nó ag gníomhú i gcoinne do leas.
-> Trí chomhlíonadh NFU-1 a éileamh, cinntímid go bhfuil an teicneolaíocht a
-> cheannaíonn tú trédhearcach agus faoi do smacht féin, ní faoi smacht an
-> mhonaróra.
-
 ### Student
 
 #### English
@@ -257,6 +257,22 @@ metadata:
 > available, trust cannot be established. Undefined trust is Babylon.
 >
 > No source. No machine.
+
+#### Irish
+
+> Is comhpháirteanna firmware agus tiománaithe iad ‘binary blobs’ a scaiptear
+> gan chód foinse. Nuair a sheolann díoltóir crua-earraí blob, tá tú ag rith cód
+> meaisín nach féidir a iniúchadh le pribhléidí arda — go minic ag ring 0. Ní
+> féidir leat é a léamh. Ní féidir leat é a phaisteáil. Ní féidir leat a bheith
+> cinnte cad a dhéanann sé. D’fhéadfadh sé glaoch abhaile. D’fhéadfadh doirse
+> cúil a bheith ann. Tá teorainn an mhuinín doiléir de réir deartha.
+>
+> Cuireann NFU-1 diúltú don tsamhail seo i gcaighdeán. Is réamhchoinníoll
+> comhlíonta é nochtadh iomlán an fhoinse. Tá an loighic dénártha: mura bhfuil
+> an fhoinse ar fáil, ní féidir muinín a bhunú. Is Babylon é muinín
+> neamhshainithe.
+>
+> Gan foinse. Gan meaisín.
 
 #### Jamaican Patois
 
@@ -306,21 +322,5 @@ metadata:
 > ni ellir sefydlu ymddiriedaeth. Ymddiriedaeth amhenodol yw Babilon.
 >
 > Dim ffynhonnell. Dim peiriant.
-
-#### Irish
-
-> Is comhpháirteanna firmware agus tiománaithe iad ‘binary blobs’ a scaiptear
-> gan chód foinse. Nuair a sheolann díoltóir crua-earraí blob, tá tú ag rith cód
-> meaisín nach féidir a iniúchadh le pribhléidí arda — go minic ag ring 0. Ní
-> féidir leat é a léamh. Ní féidir leat é a phaisteáil. Ní féidir leat a bheith
-> cinnte cad a dhéanann sé. D’fhéadfadh sé glaoch abhaile. D’fhéadfadh doirse
-> cúil a bheith ann. Tá teorainn an mhuinín doiléir de réir deartha.
->
-> Cuireann NFU-1 diúltú don tsamhail seo i gcaighdeán. Is réamhchoinníoll
-> comhlíonta é nochtadh iomlán an fhoinse. Tá an loighic dénártha: mura bhfuil
-> an fhoinse ar fáil, ní féidir muinín a bhunú. Is Babylon é muinín
-> neamhshainithe.
->
-> Gan foinse. Gan meaisín.
 
 ## "EXIT BABYLON. SPEAK MACHINE."
