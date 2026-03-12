@@ -2,7 +2,7 @@
 
 ## Human Source Code
 
-[![NVIDIA, Fuck You!](https://img.youtube.com/vi/U9U9wYiOYSsMsNXp/maxresdefault.jpg)](https://www.youtube.com/watch?v=U9U9wYiOYSsMsNXp&t=2993)
+[![NVIDIA, Fuck You!](https://img.youtube.com/vi/U9U9wYiOYSsMsNXp/hqdefault.jpg)](https://www.youtube.com/watch?v=U9U9wYiOYSsMsNXp&t=2993)
 
 > NVIDIA has been the single worst company we've ever dealt with.
 >
