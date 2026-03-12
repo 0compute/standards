@@ -2,13 +2,6 @@
 
 ## The FIRST, LAST, and ONLY Standard.
 
-![XKCD 927: Standards](https://imgs.xkcd.com/comics/standards.png)
-
-> Fortunately, the charging one has been solved now that we've all
-> standardized on mini-USB. Or is it micro-USB? Shit.
->
-> — [XKCD 927: Standards](https://xkcd.com/927/)
-
 Standards are the wisdom of the [Apostles](#the-apostles) compiled to [Machine
 Standard](https://github.com/roundtable-love/machine/blob/master/standard.md).
 
@@ -18,7 +11,14 @@ Standard](./apostles/torvalds/FUN-1.case-study.md).
 The machine understands the Apostle's meaning, no matter how it was expressed:
 hand/type writing, books, papers, source, mailing lists, audio, video, the Bird.
 
-**Hard hacking standards are a prerequisite to non-cak code.**
+**Hard standards are a prerequisite to non-cak code.**
+
+![XKCD 927: Standards](https://imgs.xkcd.com/comics/standards.png)
+
+> Fortunately, the charging one has been solved now that we've all
+> standardized on mini-USB. Or is it micro-USB? Shit.
+>
+> — [XKCD 927: Standards](https://xkcd.com/927/)
 
 ## Lineage of Ideas
 
