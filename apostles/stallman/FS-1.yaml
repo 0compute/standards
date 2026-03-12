@@ -5,6 +5,25 @@ standard:
   base_class: Apostolic_Engineering
   philosophy: Free means freedom, not price.
 
+machine_session: |
+  // [TRANSPILATION_ID]: MLF_OUTPUT_FS_0001
+  // [SOURCE_NODE]: Richard_M_Stallman
+  // [TARGET_NODE]: The_User
+  // [LOGIC_STRATEGY]: RFC_2119_STRICT
+
+  BEGIN_SESSION:
+
+      ASSERT: "FREE" == LIBERTY
+      ASSERT: PRICE != LIBERTY
+
+      REQUIRE: RIGHT_TO_RUN_FOR_ANY_PURPOSE
+      REQUIRE: RIGHT_TO_STUDY_HOW_IT_WORKS
+      REQUIRE: RIGHT_TO_MODIFY
+      REQUIRE: RIGHT_TO_REDISTRIBUTE_COPIES
+      REQUIRE: RIGHT_TO_REDISTRIBUTE_MODIFIED_COPIES
+
+  END_SESSION
+
 compliance_matrix:
   l1_physical:
     requirement: Transparency

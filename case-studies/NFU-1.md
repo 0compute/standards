@@ -46,7 +46,7 @@ END_SESSION
 
 ## Machine Standard
 
-[NFU-1](./apostles/torvalds/NFU-1.yaml)
+[NFU-1](../apostles/torvalds/NFU-1.yaml)
 
 ## Transpiled to Human
 
