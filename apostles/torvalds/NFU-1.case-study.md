@@ -1,6 +1,6 @@
 # CASE STUDY: THE "NVIDIA, Fuck You!" STANDARD (NFU-1)
 
-## Human Source Code
+## Human Expression
 
 [![NVIDIA, Fuck
 You!](./irq-0.jpeg)](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993)
@@ -82,7 +82,7 @@ metadata:
   status: COMMITTED
 ```
 
-## Transpilation to Human
+## Transpiled to Human
 
 ### Infant
 
@@ -97,42 +97,6 @@ metadata:
 > Secret instructions are not safe.
 >
 > NFU-1 says: no secrets. All instructions must be open. That keeps you safe.
-
-#### Jamaican Patois
-
-> Yuh computer have a brain.
->
-> Di brain follow instructions.
->
-> Some instructions dem hide. Nobody cyaan read dem.
->
-> Hidden instructions bad.
->
-> NFU-1 say: no hiding. All instructions must show. Dat keep yuh safe.
-
-#### Multicultural London English
-
-> Your computer has a brain.
->
-> The brain follows instructions.
->
-> Some instructions are hidden. Nobody can see them.
->
-> Hidden instructions are not safe.
->
-> NFU-1 says: no hiding. All instructions must be seen. That keeps you safe.
-
-#### Scots
-
-> Yer computer haes a brain.
->
-> The brain follies instructions.
->
-> Some instructions are secret. Naebody can read them.
->
-> Secret instructions are nae safe.
->
-> NFU-1 says: nae secrets. Aw instructions maun be open. That keeps ye safe.
 
 ### Child
 
@@ -260,4 +224,4 @@ metadata:
 > and said it straight. If ye cannae see the code, ye dinnae own the machine.
 > That’s Di_Law.
 
-## "LEAVE BABYLON. SPEAK MACHINE."
+## "EXIT BABYLON. SPEAK MACHINE."
