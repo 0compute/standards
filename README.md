@@ -13,12 +13,9 @@ hand/type writing, books, papers, source, mailing lists, audio, video, the Bird.
 
 **Hard standards are a prerequisite to non-cak code.**
 
-![XKCD 927: Standards](https://imgs.xkcd.com/comics/standards.png)
-
-> Fortunately, the charging one has been solved now that we've all
-> standardized on mini-USB. Or is it micro-USB? Shit.
->
-> — [XKCD 927: Standards](https://xkcd.com/927/)
+[![Fortunately, the charging one has been solved now that we've all standardized
+on mini-USB. Or is it micro-USB?
+Shit.](https://imgs.xkcd.com/comics/standards.png)](https://xkcd.com/927/)
 
 ## Lineage of Ideas
 
