@@ -9,7 +9,8 @@ You!](./irq-0.jpeg)](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993)
 >
 > So NVIDIA, **Fuck You!**
 >
-> — Linus Torvalds, Aalto University Finland, 2012
+> — [Linus Torvalds](https://youtu.be/MShbP3OpASA?si=U9U9wYiOYSsMsNXp&t=2993),
+>   Aalto University Finland, 2012
 
 ## Machine Session
 
